@@ -1,5 +1,7 @@
-# SimplePing
-Application to ping hosts and report in case of a fail
+# simple-ping
+Application to ping hosts and report in case of a fail.
+
+Curently Windows support only.
 
 run command: java -jar simplePingRunnable.jar
 
