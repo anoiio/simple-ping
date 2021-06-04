@@ -18,7 +18,7 @@
         <log4j.version>2.13.0</log4j.version>
         <commons-configuration2.version>2.6</commons-configuration2.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
-        <httpclient.version>4.5.11</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <httpcore.version>4.4.13</httpcore.version>
         <jersey.version>2.30</jersey.version>
         <jmockit.version>1.38</jmockit.version>
